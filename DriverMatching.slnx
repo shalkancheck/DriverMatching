@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/benchmarks/">
+    <Project Path="benchmarks/DriverMatching.Benchmarks/DriverMatching.Benchmarks.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/DriverMatching.App/DriverMatching.App.csproj" />
+    <Project Path="src/DriverMatching.Core/DriverMatching.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DriverMatching.Tests/DriverMatching.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -111,4 +111,5 @@ foreach (var driver in nearest)
 
 ## Результаты бенчмарков
 
+![benchmark-results](./docs/benchmark-results.png)
 Подробные результаты в: `BenchmarkDotNet.Artifacts/results/`
